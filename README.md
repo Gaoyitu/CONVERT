@@ -1,2 +1,0 @@
-# ProtDet-EDA
-All the code and data of ProtDet-EDA. The "data" folder contains all the data we used in our experiment. "representativeProteins_SCOP.txt" contains all representative proteins in SCOP dataset, so does "representativeProteins_SCOPe". The "generateRepresentativeProtein" folder contains all code, which is wrote by C++, of generating "the representative protein". The "trainingAndTesting" folder contains all code of data propressing, model training and model testing.
